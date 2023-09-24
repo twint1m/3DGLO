@@ -1,0 +1,24 @@
+{
+  "name": "3dglo",
+  "version": "1.0.0",
+  "description": "3DGLO project using webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twint1m/3DGLO.git"
+  },
+  "author": "twint1m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twint1m/3DGLO/issues"
+  },
+  "homepage": "https://github.com/twint1m/3DGLO#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
